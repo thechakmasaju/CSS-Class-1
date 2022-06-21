@@ -1,0 +1,51 @@
+h2{
+    color: aliceblue;
+    font-size: 40px;
+    text-align: center;
+    background-color: rgb(236, 9, 9);
+    word-spacing: 10px;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+#p-1{
+    color: rgb(48, 19, 237);
+    font-size: 18px;
+    word-spacing: 5px;
+    text-align: justify;
+   background-image:url(https://www.observerbd.com/2022/06/21/observerbd.com_1655744834.jpg);
+    background-repeat: no-repeat;
+    background-position: top;
+    background-attachment: fixed;
+}
+.p-style{
+    color: blueviolet;
+    font-size: 20px;
+    text-decoration-style: wavy;
+}
+#p-3{
+    color: rgb(13, 71, 197);
+    font-size:xx-large;
+    text-decoration: overline;
+    text-decoration-style: dotted;
+    text-transform: lowercase;
+    
+}
+#p-4{
+    color: brown;
+    background-color: aliceblue;
+    font-size: 30px;
+    text-align: left;
+    text-decoration: underline overline;
+    text-decoration-style:double ;
+    text-transform: capitalize;
+    line-height: 1.5;
+}
+#p-5{
+    color: rgb(9, 190, 54);
+    font-size: 20px;
+    text-decoration-style:solid ;
+    text-transform: uppercase;
+    font-size: large;
+    text-decoration:line-through;
+    text-align: justify;
+}
